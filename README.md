@@ -1,6 +1,6 @@
 # A-Multi-Objective-Paleo-Informed-Reconstruction-of-Western-U.S.-Weather-Regimes-
 
-Repository for Gupta, Steinschneider, &amp Reed, 2021, "A Multi-Objective Paleo-Informed Reconstruction of Western U.S. Weather Regimes Over the Past 600 Years" (in preparation)
+Repository for Gupta, Steinschneider, & Reed, 2021, "A Multi-Objective Paleo-Informed Reconstruction of Western U.S. Weather Regimes Over the Past 600 Years" (in preparation)
 
 This repository contains all code needed to run the optimization and generate the reconstruction. This experiment was run on THCUBE Cluster at Cornell University. If you have questions about running the code please contact rg727@cornell.edu.  
 
